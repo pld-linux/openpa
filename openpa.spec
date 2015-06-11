@@ -6,7 +6,7 @@ Summary:	OpenPA - portable library for atomic operations
 Summary(pl.UTF-8):	OpenPA - przenośna biblioteka operacji atomowych
 Name:		openpa
 Version:	1.0.4
-Release:	1
+Release:	2
 License:	BSD-like
 Group:		Libraries
 Source0:	http://trac.mpich.org/projects/openpa/raw-attachment/wiki/Downloads/%{name}-%{version}.tar.gz
